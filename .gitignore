@@ -1,0 +1,6 @@
+checkpoint/*
+*.ipynb_checkpoints
+dataset
+*.ipynb
+logs/
+scraper/
